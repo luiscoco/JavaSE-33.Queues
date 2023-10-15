@@ -2,7 +2,7 @@
 
 In Java, a queue is a data structure that follows the First-In-First-Out (FIFO) principle, meaning that the first element added to the queue will be the first one to be removed.
 
-## Queue (LinkedList)
+## 1. Queue (LinkedList)
 
 Java provides a Queue interface that extends the Collection interface.
 
@@ -61,7 +61,7 @@ Queue after peek: [Element 2, Element 3]
 ```
 This demonstrates the basic operations of adding, removing, and peeking at elements in a queue in Java.
 
-## ArrayDeque
+## 2. ArrayDeque
 
 Implementation: ArrayDeque is implemented as a resizable array. It allows dynamic resizing of the array to accommodate elements.
 
@@ -87,7 +87,7 @@ public class ArrayDequeExample {
 }
 ```
 
-## LinkedList:
+## 3. LinkedList:
 Implementation: LinkedList is implemented as a doubly-linked list. It provides a flexible structure where elements can be efficiently inserted or removed from both ends.
 
 Performance: While it offers O(1) time complexity for adding/removing elements from the front, adding/removing from the rear has O(1) time complexity as well. 
