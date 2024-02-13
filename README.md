@@ -1,5 +1,7 @@
 # JavaSE-Queues
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, a queue is a data structure that follows the First-In-First-Out (FIFO) principle, meaning that the first element added to the queue will be the first one to be removed.
 
 ## 1. Queue (LinkedList)
